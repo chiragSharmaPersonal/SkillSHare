@@ -1,6 +1,6 @@
-# ImageKit Video Shop
+# SkillShare
 
-A modern Next.js application for managing and selling video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities, and payment processing using Razorpay.
+A modern Next.js application for sharing shortform video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities, and payment processing using Razorpay.
 
 ## Features
 
@@ -108,14 +108,3 @@ SMTP_PASS=
 └── types.d.ts         # TypeScript declarations
 ```
 
-## Contributing
-
-NO CONTRIBUTING PLEASE!
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, watch youtube video
