@@ -1,6 +1,6 @@
 # SkillShare
 
-A modern Next.js application for sharing shortform video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities, and payment processing using Razorpay.
+A modern Next.js application for sharing shortform video content using ImageKit integration. This project provides a full-featured platform with user authentication, video upload capabilities, and payment processing using Razorpay
 
 ## Features
 
